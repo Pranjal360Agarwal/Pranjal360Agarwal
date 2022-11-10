@@ -1,10 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<img align="center" alt="Coding" target="https://debjitpurohit.github.io/Debjits-World/" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:1000px ; height:380px " data-target="https://debjitpurohit.github.io/Debjits-World/">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjal Agarwal</h1>
-<h3 align="center">I'm a passionate Web Developer and Programmer from India.</h3>
+<h3 align="center">A passionate Web Developer and Programmer from India</h3>
 
+</p>
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:420px ; height:300px ; border-radius: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me ❤❤
 
 - 🔭 I’m currently working on **[My team Portfolio Website](https://github.com/Pranjal360Agarwal/Gfg_portfolio-/blob/main/Personal%20Portfolio%20Website7.pdf)**
 
@@ -44,7 +45,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Pranjal360Agarwal/github-readme-streak-stats">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal360Agarwal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -53,6 +54,7 @@
 
   <br/>
     <a href="https://github.com/Pranjal360Agarwal/github-readme-stats"><img alt="Pranjal Agarwal Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pranjal360Agarwal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
   <a href="https://github.com/Pranjal360Agarwal/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal360Agarwal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -66,6 +68,14 @@
 <br/>
 <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Pranjal360Agarwal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranjal360Agarwal" alt="Pranjal360Agarwal" /></a> </p>
+
+<div> 
+<img src="gif.gif" width="300px" alt=gif align="right"> 
+</div>
+
 ## Connect with me:
 <p align="left">
 
@@ -76,7 +86,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Views and Followers ❤
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pranjal360Agarwal">
 </a>
