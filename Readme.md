@@ -3,14 +3,14 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjal Agarwal</h1>
-<h3 align="center">A passionate Web Developer and Programmer from India</h3>
+<h3 align="center">A passionate Software Developer and Programmer from India</h3>
 
 </p>
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:420px ; height:300px ; border-radius: 25px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🙋‍♂️ About Me ❤❤
 
-- 🔭 I’m currently working on **[My team Portfolio Website](https://github.com/Pranjal360Agarwal/Gfg_portfolio-/blob/main/Personal%20Portfolio%20Website7.pdf)**
+- 🔭 I’m currently working as **[KWOC'22 Project Mentor](https://github.com/Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
