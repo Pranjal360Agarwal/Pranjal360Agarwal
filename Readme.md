@@ -91,7 +91,7 @@
 <a href = "https://twitter.com/Pranjal12393385"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/pranjaltechsaver/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC_4ygse-QDNkf8Rp3kBS8zg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://profile-summary-for-github.com/user/shikharcodes"><img src="https://images.app.goo.gl/fcJbAXmGGpP4Ng7E9"/></a>
+<a href = "https://profile-summary-for-github.com/user/shikharcodes"><img src="https://icons8.com/icon/63777/github"/></a>
 
 
 </p>
