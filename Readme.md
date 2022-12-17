@@ -91,7 +91,7 @@
 <a href = "https://twitter.com/Pranjal12393385"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/pranjaltechsaver/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC_4ygse-QDNkf8Rp3kBS8zg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-    - [GitHub Profile Summary](https://profile-summary-for-github.com/user/shikharcodes)
+[GitHub Profile Summary](https://profile-summary-for-github.com/user/shikharcodes)
 
 </p>
 
