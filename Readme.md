@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" target="https://debjitpurohit.github.io/Debjits-World/" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:1000px ; height:380px " data-target="https://debjitpurohit.github.io/Debjits-World/">
+[![An image of @pranjal10agarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjal10agarwal)](https://holopin.io/@pranjal10agarwal)
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
