@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me ❤❤
 
-- 🔭 I’m currently working as **[IWOC'23 Project Mentor](https://github.com/Pranjal360Agarwal/ApnaBharat-Bus-Booking-Reservation-System)**
+- 🔭 I’m currently working on Open Source Projects
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
