@@ -75,7 +75,7 @@
 
 <!--<a href="https://github.com/Pranjal360Agarwal/github-readme-activity-graph"><img alt="Pranjal Agarwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pranjal360Agarwal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
     
-[![Pranjal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pranjal360Agarwal&theme=react-dark)](https://github.com/Pranjal360Agarwal/github-readme-activity-graph)
+[![Pranjal's github activity graph]([https://github-readme-activity-graph.cyclic.app/graph?username=Pranjal360Agarwal&theme=react-dark)](https://github.com/Pranjal360Agarwal/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranjal360Agarwal&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 <br/>
 <br/>
