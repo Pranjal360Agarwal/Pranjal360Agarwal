@@ -1,8 +1,4 @@
-[![An image of @pranjal10agarwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranjal10agarwal)](https://holopin.io/@pranjal10agarwal)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pranjal Agarwal</h1>
 <h3 align="center">A passionate Software Developer and Programmer from India</h3>
 
