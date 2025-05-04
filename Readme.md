@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Pranjal360Agarwal)**
 
-- 📫 How to reach me **pranjal7agarwal@gmail.com**
+- 📫 How to reach me **pranjal25agarwal@gmail.com**
 
 - ⚡ Relaxing fact - **I used to play chess and sprint whenever possible.**
 
