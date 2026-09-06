@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me ❤❤
 
-- 🔭 I’m currently working on Development & Machine Learning Projects.
+- 🔭 I’m currently working at Zomato in their AI Division team.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently exploring **Agentic AI Systems**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
